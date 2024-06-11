@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "mongo_index",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
